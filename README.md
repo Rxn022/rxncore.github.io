@@ -1,4 +1,4 @@
-# Reactive Core
+# > Reactive Core <
  👋 Welcome to Reactive Core!
  
  📃 This is a SOLO project made by @Rxn022! 
